@@ -1,0 +1,15 @@
+name: design_box
+description: A flutter widget to simplify design implementations.
+version: 1.0.0
+homepage: https://github.com/o-Adrian-o/DesignBox
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  test: 1.24.3
